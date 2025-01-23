@@ -2,6 +2,7 @@
 #BUSINESS PROBLEM
 #A machine learning project is desired to be implemented using a dataset containing features of individual houses and their prices, for predicting prices of houses with different characteristics.
 
+#https://www.kaggle.com/competitions/home-data-for-ml-course
 #DATASET STORY
 #This dataset consists of residential homes in Ames, Iowa, and includes 79 explanatory variables. The project, which also has a competition on Kaggle, can be accessed through the link provided below. As it is associated with a Kaggle competition, there are two separate CSV files for training and testing. The house prices in the test dataset are left blank, and it is expected that you will predict these values. Dataset Story: 1460 Total Observations, 38 Numerical Variables, 43 Categorical Variables.
 
